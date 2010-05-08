@@ -1,0 +1,25 @@
+#header {
+	height: 77px;
+}
+
+#nav ul{
+	left: 0em;
+}
+
+#menu {
+	position: relative;
+	z-index: 1000;
+}
+
+#nav li ul ul {
+	left:12em;
+}
+
+#content .features-row {
+	margin-bottom: 0px;
+}
+
+#featured div img {
+	height: 80px;
+	margin-bottom: -10px;
+}

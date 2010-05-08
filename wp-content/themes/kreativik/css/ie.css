@@ -1,0 +1,18 @@
+#header {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	height: 82px;
+}
+
+#header h1 {
+	margin-top: 10px;
+}
+
+#menu {
+	position: relative;
+	top: 10px;
+}
+
+#menu ul li a {
+	padding-bottom: 10px;
+}
